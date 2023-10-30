@@ -1,0 +1,15 @@
+{
+    "custom": [{
+            "filename": "composer.json",
+            "path": "root"
+        },
+        {
+            "filename": "composer.lock",
+            "path": "root"
+        }, {
+            "filename": ".htaccess",
+            "path": "root"
+        }
+    ],
+    "version": "1.1"
+}
